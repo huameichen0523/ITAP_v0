@@ -1,0 +1,3 @@
+C:\ddf-2.9.2\agent>java -jar DDFAgent-1.0-Beta-jar-with-dependencies.jar -url
+https://192.168.1.8:8993 -o -file -file C:\\Users\jxby001\Desktop\Huamei
+\KW18_new_trajectories\New_trajectories\temp\fsroot\jsonlab\geojson_wami_5.json
